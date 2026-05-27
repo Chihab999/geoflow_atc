@@ -1,0 +1,2102 @@
+[
+  {
+    "building_id": "Kumamoto_2016_Bldg_0",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_1",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_2",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_3",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_4",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_5",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_6",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_7",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_8",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_9",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_10",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_11",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_12",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_13",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_14",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_15",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_16",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_17",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_18",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_19",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_20",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_21",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_22",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_23",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_24",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_25",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_26",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_27",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_28",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_29",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_30",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_31",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_32",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_33",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_34",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_35",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_36",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_37",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_38",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_39",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_40",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_41",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_42",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_43",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_44",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_45",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_46",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_47",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_48",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_49",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_50",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_51",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_52",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_53",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_54",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_55",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_56",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_57",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_58",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_59",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_60",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_61",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_62",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_63",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_64",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_65",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_66",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_67",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_68",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_69",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_70",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_71",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_72",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_73",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_74",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_75",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_76",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_77",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_78",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_79",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_80",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_81",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_82",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_83",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_84",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_85",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_86",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_87",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_88",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_89",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_90",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_91",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_92",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_93",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_94",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_95",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_96",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_97",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_98",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_99",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_100",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_101",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_102",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_103",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_104",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_105",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_106",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_107",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_108",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_109",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_110",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_111",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_112",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_113",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_114",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_115",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_116",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_117",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_118",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_119",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_120",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_121",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_122",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_123",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_124",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_125",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_126",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_127",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_128",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_129",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_130",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_131",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_132",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_133",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_134",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_135",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_136",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_137",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_138",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_139",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_140",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_141",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_142",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_143",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_144",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_145",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_146",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_147",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_148",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_149",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_150",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_151",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_152",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_153",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_154",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_155",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_156",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_157",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_158",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_159",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_160",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_161",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_162",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_163",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_164",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_165",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_166",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_167",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_168",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_169",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_170",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_171",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_172",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_173",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_174",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_175",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_176",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_177",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_178",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_179",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_180",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_181",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_182",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_183",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_184",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_185",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_186",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_187",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_188",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_189",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_190",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_191",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_192",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_193",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_194",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_195",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_196",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_197",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_198",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_199",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_200",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_201",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_202",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_203",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_204",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_205",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_206",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_207",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_208",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_209",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_210",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_211",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_212",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_213",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_214",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_215",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_216",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_217",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_218",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_219",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_220",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_221",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_222",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_223",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_224",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_225",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_226",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_227",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_228",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_229",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_230",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_231",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_232",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_233",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_234",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_235",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_236",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_237",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_238",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_239",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_240",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_241",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_242",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_243",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_244",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_245",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_246",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_247",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_248",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_249",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_250",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_251",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_252",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_253",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_254",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_255",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_256",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_257",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_258",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_259",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_260",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_261",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_262",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_263",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_264",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_265",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_266",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_267",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_268",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_269",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_270",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_271",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_272",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_273",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_274",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_275",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_276",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_277",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_278",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_279",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_280",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_281",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_282",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_283",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_284",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_285",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_286",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_287",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_288",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_289",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_290",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_291",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_292",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_293",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_294",
+    "damage_class": "Green",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_295",
+    "damage_class": "Yellow",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_296",
+    "damage_class": "Red",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_297",
+    "damage_class": "Green",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical green-tagged building from Turkiye 2023."
+  },
+  {
+    "building_id": "Kumamoto_2016_Bldg_298",
+    "damage_class": "Yellow",
+    "source_event": "Kumamoto_2016",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical yellow-tagged building from Kumamoto 2016."
+  },
+  {
+    "building_id": "Turkiye_2023_Bldg_299",
+    "damage_class": "Red",
+    "source_event": "Turkiye_2023",
+    "geometry_type": "UAV_LiDAR_Point_Cloud",
+    "description": "Historical red-tagged building from Turkiye 2023."
+  }
+]

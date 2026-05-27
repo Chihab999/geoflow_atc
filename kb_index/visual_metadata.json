@@ -1,0 +1,6002 @@
+[
+  {
+    "image_id": "BRIGHT_Mock_Green_0.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_1.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_2.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_3.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_4.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_5.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_6.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_7.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_8.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_9.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_10.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_11.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_12.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_13.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_14.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_15.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_16.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_17.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_18.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_19.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_20.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_21.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_22.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_23.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_24.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_25.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_26.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_27.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_28.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_29.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_30.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_31.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_32.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_33.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_34.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_35.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_36.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_37.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_38.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_39.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_40.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_41.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_42.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_43.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_44.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_45.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_46.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_47.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_48.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_49.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_50.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_51.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_52.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_53.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_54.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_55.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_56.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_57.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_58.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_59.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_60.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_61.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_62.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_63.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_64.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_65.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_66.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_67.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_68.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_69.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_70.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_71.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_72.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_73.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_74.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_75.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_76.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_77.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_78.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_79.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_80.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_81.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_82.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_83.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_84.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_85.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_86.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_87.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_88.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_89.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_90.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_91.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_92.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_93.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_94.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_95.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_96.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_97.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_98.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_99.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_100.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_101.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_102.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_103.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_104.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_105.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_106.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_107.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_108.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_109.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_110.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_111.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_112.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_113.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_114.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_115.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_116.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_117.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_118.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_119.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_120.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_121.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_122.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_123.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_124.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_125.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_126.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_127.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_128.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_129.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_130.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_131.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_132.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_133.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_134.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_135.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_136.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_137.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_138.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_139.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_140.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_141.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_142.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_143.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_144.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_145.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_146.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_147.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_148.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_149.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_150.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_151.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_152.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_153.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_154.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_155.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_156.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_157.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_158.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_159.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_160.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_161.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_162.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_163.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_164.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_165.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_166.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_167.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_168.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_169.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_170.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_171.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_172.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_173.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_174.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_175.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_176.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_177.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_178.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_179.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_180.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_181.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_182.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_183.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_184.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_185.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_186.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_187.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_188.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_189.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_190.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_191.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_192.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_193.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_194.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_195.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_196.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_197.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_198.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_199.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_200.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_201.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_202.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_203.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_204.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_205.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_206.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_207.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_208.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_209.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_210.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_211.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_212.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_213.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_214.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_215.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_216.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_217.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_218.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_219.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_220.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_221.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_222.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_223.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_224.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_225.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_226.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_227.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_228.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_229.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_230.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_231.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_232.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_233.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_234.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_235.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_236.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_237.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_238.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_239.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_240.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_241.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_242.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_243.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_244.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_245.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_246.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_247.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_248.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_249.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_250.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_251.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_252.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_253.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_254.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_255.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_256.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_257.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_258.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_259.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_260.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_261.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_262.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_263.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_264.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_265.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_266.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_267.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_268.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_269.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_270.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_271.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_272.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_273.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_274.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_275.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_276.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_277.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_278.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_279.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_280.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_281.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_282.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_283.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_284.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_285.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_286.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_287.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_288.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_289.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_290.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_291.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_292.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_293.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_294.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_295.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_296.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_297.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_298.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_299.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_300.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_301.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_302.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_303.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_304.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_305.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_306.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_307.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_308.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_309.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_310.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_311.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_312.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_313.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_314.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_315.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_316.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_317.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_318.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_319.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_320.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_321.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_322.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_323.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_324.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_325.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_326.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_327.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_328.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_329.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_330.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_331.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_332.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_333.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_334.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_335.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_336.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_337.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_338.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_339.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_340.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_341.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_342.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_343.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_344.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_345.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_346.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_347.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_348.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_349.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_350.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_351.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_352.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_353.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_354.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_355.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_356.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_357.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_358.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_359.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_360.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_361.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_362.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_363.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_364.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_365.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_366.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_367.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_368.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_369.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_370.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_371.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_372.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_373.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_374.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_375.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_376.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_377.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_378.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_379.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_380.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_381.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_382.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_383.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_384.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_385.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_386.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_387.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_388.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_389.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_390.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_391.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_392.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_393.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_394.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_395.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_396.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_397.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_398.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_399.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_400.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_401.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_402.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_403.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_404.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_405.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_406.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_407.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_408.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_409.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_410.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_411.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_412.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_413.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_414.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_415.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_416.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_417.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_418.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_419.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_420.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_421.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_422.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_423.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_424.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_425.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_426.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_427.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_428.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_429.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_430.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_431.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_432.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_433.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_434.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_435.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_436.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_437.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_438.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_439.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_440.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_441.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_442.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_443.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_444.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_445.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_446.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_447.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_448.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_449.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_450.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_451.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_452.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_453.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_454.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_455.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_456.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_457.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_458.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_459.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_460.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_461.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_462.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_463.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_464.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_465.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_466.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_467.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_468.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_469.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_470.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_471.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_472.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_473.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_474.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_475.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_476.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_477.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_478.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_479.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_480.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_481.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_482.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_483.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_484.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_485.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_486.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_487.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_488.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_489.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_490.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_491.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_492.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_493.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_494.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_495.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_496.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_497.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_498.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_499.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_500.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_501.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_502.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_503.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_504.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_505.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_506.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_507.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_508.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_509.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_510.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_511.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_512.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_513.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_514.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_515.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_516.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_517.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_518.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_519.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_520.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_521.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_522.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_523.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_524.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_525.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_526.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_527.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_528.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_529.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_530.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_531.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_532.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_533.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_534.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_535.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_536.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_537.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_538.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_539.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_540.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_541.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_542.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_543.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_544.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_545.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_546.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_547.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_548.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_549.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_550.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_551.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_552.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_553.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_554.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_555.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_556.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_557.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_558.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_559.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_560.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_561.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_562.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_563.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_564.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_565.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_566.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_567.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_568.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_569.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_570.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_571.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_572.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_573.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_574.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_575.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_576.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_577.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_578.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_579.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_580.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_581.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_582.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_583.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_584.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_585.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_586.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_587.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_588.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_589.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_590.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_591.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_592.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_593.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_594.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_595.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_596.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_597.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_598.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_599.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_600.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_601.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_602.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_603.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_604.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_605.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_606.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_607.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_608.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_609.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_610.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_611.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_612.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_613.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_614.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_615.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_616.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_617.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_618.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_619.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_620.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_621.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_622.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_623.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_624.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_625.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_626.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_627.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_628.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_629.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_630.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_631.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_632.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_633.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_634.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_635.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_636.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_637.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_638.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_639.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_640.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_641.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_642.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_643.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_644.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_645.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_646.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_647.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_648.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_649.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_650.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_651.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_652.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_653.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_654.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_655.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_656.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_657.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_658.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_659.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_660.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_661.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_662.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_663.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_664.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_665.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_666.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_667.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_668.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_669.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_670.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_671.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_672.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_673.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_674.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_675.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_676.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_677.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_678.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_679.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_680.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_681.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_682.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_683.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_684.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_685.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_686.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_687.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_688.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_689.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_690.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_691.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_692.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_693.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_694.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_695.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_696.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_697.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_698.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_699.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_700.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_701.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_702.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_703.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_704.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_705.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_706.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_707.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_708.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_709.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_710.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_711.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_712.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_713.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_714.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_715.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_716.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_717.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_718.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_719.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_720.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_721.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_722.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_723.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_724.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_725.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_726.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_727.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_728.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_729.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_730.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_731.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_732.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_733.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_734.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_735.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_736.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_737.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_738.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_739.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_740.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_741.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_742.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_743.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_744.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_745.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_746.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_747.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_748.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_749.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_750.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_751.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_752.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_753.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_754.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_755.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_756.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_757.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_758.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_759.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_760.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_761.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_762.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_763.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_764.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_765.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_766.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_767.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_768.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_769.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_770.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_771.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_772.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_773.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_774.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_775.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_776.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_777.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_778.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_779.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_780.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_781.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_782.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_783.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_784.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_785.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_786.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_787.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_788.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_789.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_790.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_791.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_792.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_793.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_794.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_795.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_796.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_797.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_798.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_799.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_800.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_801.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_802.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_803.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_804.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_805.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_806.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_807.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_808.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_809.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_810.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_811.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_812.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_813.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_814.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_815.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_816.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_817.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_818.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_819.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_820.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_821.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_822.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_823.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_824.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_825.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_826.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_827.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_828.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_829.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_830.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_831.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_832.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_833.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_834.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_835.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_836.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_837.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_838.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_839.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_840.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_841.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_842.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_843.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_844.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_845.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_846.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_847.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_848.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_849.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_850.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_851.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_852.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_853.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_854.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_855.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_856.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_857.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_858.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_859.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_860.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_861.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_862.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_863.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_864.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_865.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_866.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_867.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_868.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_869.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_870.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_871.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_872.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_873.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_874.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_875.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_876.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_877.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_878.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_879.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_880.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_881.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_882.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_883.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_884.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_885.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_886.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_887.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_888.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_889.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_890.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_891.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_892.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_893.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_894.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_895.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_896.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_897.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_898.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_899.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_900.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_901.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_902.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_903.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_904.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_905.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_906.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_907.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_908.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_909.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_910.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_911.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_912.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_913.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_914.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_915.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_916.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_917.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_918.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_919.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_920.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_921.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_922.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_923.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_924.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_925.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_926.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_927.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_928.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_929.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_930.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_931.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_932.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_933.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_934.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_935.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_936.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_937.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_938.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_939.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_940.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_941.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_942.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_943.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_944.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_945.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_946.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_947.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_948.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_949.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_950.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_951.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_952.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_953.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_954.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_955.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_956.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_957.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_958.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_959.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_960.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_961.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_962.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_963.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_964.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_965.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_966.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_967.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_968.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_969.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_970.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_971.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_972.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_973.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_974.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_975.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_976.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_977.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_978.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_979.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_980.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_981.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_982.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_983.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_984.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_985.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_986.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_987.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_988.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_989.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_990.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_991.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_992.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_993.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_994.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_995.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Green_996.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Green",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Yellow_997.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Yellow",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Red_998.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Red",
+    "modality": "RGB_Visual"
+  },
+  {
+    "image_id": "BRIGHT_Mock_Destroyed_999.jpg",
+    "source": "BRIGHT_Dataset_Simulated",
+    "damage_class": "Destroyed",
+    "modality": "RGB_Visual"
+  }
+]

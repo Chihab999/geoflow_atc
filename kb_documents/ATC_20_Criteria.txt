@@ -1,0 +1,29 @@
+
+ATC-20 Postearthquake Safety Evaluation of Buildings - Core Criteria Summary
+
+1. INSPECTED (Green Placard)
+Description: No apparent hazard found, although repairs may be required. Original seismic-resisting capacity is not significantly decreased. No restriction on use or occupancy.
+Structural Criteria: 
+- Minor or no cracking in structural concrete/masonry.
+- No significant leaning or out-of-plumb walls.
+- Minor architectural damage (e.g., plaster flaking, minor glass breakage).
+- No damage to primary gravity or lateral force-resisting systems.
+
+2. RESTRICTED USE (Yellow Placard)
+Description: Hazardous condition exists or is believed to exist that requires a restricted use. Entering is permitted only by authorized personnel or under specific constraints.
+Structural Criteria:
+- Moderate structural damage to lateral load-resisting system.
+- Noticeable wall cracking or spalling of concrete.
+- Damage to non-structural elements that pose falling hazards (e.g., parapets, heavy facades).
+- Main structural frame remains basically intact but exhibits signs of yielding.
+- Building still supports gravity loads but lateral capacity is degraded.
+
+3. UNSAFE (Red Placard)
+Description: Extreme hazard, may collapse. Imminent danger of collapse from an aftershock. Do not enter.
+Structural Criteria:
+- Severe structural damage.
+- Obvious leaning / out-of-plumb exceeding tolerances (e.g., > 1-2 degrees).
+- Failure of connections between structural elements.
+- Collapsed stories or partial collapse (pancaking).
+- Severe shear cracking in vertical elements (X-cracks in columns/walls).
+- Unsafe foundation displacement or severe liquefaction effects.
