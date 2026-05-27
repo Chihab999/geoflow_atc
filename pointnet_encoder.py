@@ -200,8 +200,11 @@ def extract_global_features(partial_pc: np.ndarray, encoder: PointNetEncoder = N
         return encoder.extract_features(partial_pc)
 
     # Fallback: statistical features only (no learned component)
+    # Pad to 384 dims to match router input expectation
     stat = compute_statistical_features(partial_pc)
-    return torch.tensor(stat[:384], dtype=torch.float32).unsqueeze(0)
+    padded = np.zeros(384, dtype=np.float32)
+    padded[:len(stat)] = stat
+    return torch.tensor(padded, dtype=torch.float32).unsqueeze(0)
 
 
 # ─────────────────────────────────────────────────────────────
