@@ -362,10 +362,16 @@ class Evaluator:
 
     def print_summary(self):
         """Print a formatted summary table to stdout."""
+        if not self.architectures:
+            print("\n[WARN] No architectures with valid predictions to evaluate.")
+            print("  This usually means all predictions were INCONCLUSIVE.")
+            print("  Check that the LLM agent is returning valid Green/Yellow/Red classes.")
+            return
+
         report = self.compute_all_metrics()
-        header = f"{'Architecture':<20} {'Acc':>6} {'F1-M':>6} {'F1-W':>6} {'κ':>6} {'MCC':>6}"
+        header = f"{'Architecture':<20} {'Acc':>6} {'F1-M':>6} {'F1-W':>6} {'Kappa':>6} {'MCC':>6}"
         print("\n" + "=" * len(header))
-        print("ABLATION STUDY — CLASSIFICATION METRICS")
+        print("ABLATION STUDY -- CLASSIFICATION METRICS")
         print("=" * len(header))
         print(header)
         print("-" * len(header))
@@ -394,7 +400,7 @@ class Evaluator:
                 sig = "***" if result["p_value"] < 0.001 else \
                       "**" if result["p_value"] < 0.01 else \
                       "*" if result["p_value"] < 0.05 else "ns"
-                print(f"  {pair}: χ²={result['chi2']:.2f}, p={result['p_value']:.4f} {sig}")
+                print(f"  {pair}: chi2={result['chi2']:.2f}, p={result['p_value']:.4f} {sig}")
         print()
 
     def to_latex(self, path: str = None) -> str:
@@ -418,8 +424,12 @@ class Evaluator:
         # Find best values for bolding
         metrics_keys = ["accuracy", "macro_f1", "weighted_f1", "cohens_kappa", "mcc"]
         best_vals = {}
-        for k in metrics_keys:
-            best_vals[k] = max(report[a][k] for a in self.architectures)
+        if self.architectures:
+            for k in metrics_keys:
+                best_vals[k] = max(report[a][k] for a in self.architectures)
+        else:
+            for k in metrics_keys:
+                best_vals[k] = 0.0
 
         for arch_name in self.architectures:
             m = report[arch_name]
