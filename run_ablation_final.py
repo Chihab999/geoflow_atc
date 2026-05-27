@@ -241,12 +241,18 @@ def run_ablation_final():
             # Record for evaluation
             if "error" not in res:
                 truth_idx = LABEL_MAP.get(res["truth_label"], -1)
-                pred_idx = LABEL_MAP.get(res["predicted_label"], -1)
+                pred_label = res.get("predicted_label", "INCONCLUSIVE")
+                pred_idx = LABEL_MAP.get(pred_label, -1)
                 if truth_idx >= 0:
+                    # For INCONCLUSIVE: assign a wrong class so it counts as misclassification
+                    if pred_idx < 0:
+                        pred_idx = (truth_idx + 1) % 3  # guaranteed wrong
                     arch_predictions[arch]["y_true"].append(truth_idx)
-                    arch_predictions[arch]["y_pred"].append(pred_idx if pred_idx >= 0 else -1)
+                    arch_predictions[arch]["y_pred"].append(pred_idx)
                     arch_predictions[arch]["confidences"].append(res.get("confidence", 0.0))
                     arch_predictions[arch]["latencies"].append(res.get("latency_seconds", 0.0))
+            else:
+                print(f"    [WARN] Scene error: {res.get('error', 'unknown')}")
 
     total_time = time.time() - t_total_start
 
@@ -259,6 +265,17 @@ def run_ablation_final():
 
     # ── Compute Metrics ───────────────────────────────────────
     print("\n[METRICS] Computing evaluation metrics...")
+
+    # Debug: show prediction counts per architecture
+    for arch in architectures:
+        ap = arch_predictions[arch]
+        n = len(ap["y_true"])
+        if n > 0:
+            inconclusive = sum(1 for t, p in zip(ap["y_true"], ap["y_pred"]) if t != p and p == (t + 1) % 3)
+            print(f"  {arch}: {n} predictions ({inconclusive} INCONCLUSIVE)")
+        else:
+            print(f"  {arch}: 0 predictions (all scenes had errors)")
+
     evaluator = Evaluator(
         class_names=["Green", "Yellow", "Red"],
         n_bootstrap=cfg.bootstrap_n_iterations,
