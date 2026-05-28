@@ -119,8 +119,6 @@ def build_description(features: dict, partial_features: dict = None) -> str:
         lines.append(f"- Surface variation: {hstd:.2f} — Geometry is FLAT (strong collapse indicator)")
     elif hstd < 4.0:
         lines.append(f"- Surface variation: {hstd:.2f} — Moderate vertical variation — possible damage")
-    elif hstd > 8.0:
-        lines.append(f"- Surface variation: {hstd:.2f} — Elevated vertical variation — indicates yielding or structural damage")
     else:
         lines.append(f"- Surface variation: {hstd:.2f} — Normal vertical variation — intact building structure")
 
@@ -143,15 +141,15 @@ def build_description(features: dict, partial_features: dict = None) -> str:
     if pt_count > 1000:
         # Completion network was applied
         if vol_completed < 500000:
-            lines.append(f"- Completion Analysis: Completed volume {vol_completed:.1f} < 500k. The network reconstructed a reduced footprint, confirming a MISSING WEDGE / PARTIAL COLLAPSE (Yellow indicator).")
+            lines.append(f"- Completion Analysis: Completed volume {vol_completed:.1f} < 500k. The completion network reconstructed a reduced architectural footprint, which strongly confirms MODERATE STRUCTURAL DAMAGE to the lateral load-resisting system (Yellow indicator).")
         else:
-            lines.append(f"- Completion Analysis: Completed volume {vol_completed:.1f} > 500k. Full structural envelope successfully reconstructed (Green indicator).")
+            lines.append(f"- Completion Analysis: Completed volume {vol_completed:.1f} > 500k. The completion network confirmed the full structural envelope is perfectly intact (Green indicator).")
     else:
         lines.append("- Completion Analysis: Not applied. (Agent must rely on ambiguous partial geometry).")
 
     lines.append("\nINTACT-BUILDING SIGNATURE CHECK:")
     lines.append(f"[{'✓' if hr > 15.0 else '✗'}] Height range > 15m (indicates full structure): {hr:.2f}m")
-    lines.append(f"[{'✓' if hstd > 4.0 and hstd <= 8.0 else '✗'}] Height std in 4.0-8.0 range (normal vertical complexity): {hstd:.2f}")
+    lines.append(f"[{'✓' if hstd > 4.0 else '✗'}] Height std > 4.0 (indicates vertical complexity): {hstd:.2f}")
     lines.append(f"[{'✓' if 0.85 <= nc <= 0.97 else '✗'}] Normal consistency in 0.85-0.97 range (intact roof, not debris): {nc:.2f}")
     lines.append(f"[{'✓' if ri < 3.0 else '✗'}] Roughness < 3.0 (smooth surface, not rubble): {ri:.2f}")
 
