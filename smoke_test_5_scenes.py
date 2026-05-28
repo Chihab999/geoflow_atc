@@ -6,11 +6,13 @@ from config import PipelineConfig
 from geoflow_integration import GeoFlowPCWrapper
 from reasoning_agent import TriageReActAgent
 from run_ablation_final import process_single_scene
+from unified_retrieval import UnifiedKnowledgeBase
 
 def run_smoke_test():
     cfg = PipelineConfig()
     geoflow = GeoFlowPCWrapper(checkpoint_path=str(cfg.get_checkpoint_path()), device="cpu")
-    agent = TriageReActAgent()
+    kb = UnifiedKnowledgeBase(cfg)
+    agent = TriageReActAgent(kb_interface=kb)
     rng = np.random.default_rng(42)
     
     # We want 2 Green, 1 Yellow, 2 Red
