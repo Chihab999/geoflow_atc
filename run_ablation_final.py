@@ -250,21 +250,21 @@ def run_ablation_final():
                 res["seed"] = seed
                 results.append(res)
 
-            # Record for evaluation
-            if "error" not in res:
-                truth_idx = LABEL_MAP.get(res["truth_label"], -1)
-                pred_label = res.get("predicted_label", "INCONCLUSIVE")
-                pred_idx = LABEL_MAP.get(pred_label, -1)
-                if truth_idx >= 0:
-                    # For INCONCLUSIVE: assign a wrong class so it counts as misclassification
-                    if pred_idx < 0:
-                        pred_idx = (truth_idx + 1) % 3  # guaranteed wrong
-                    arch_predictions[arch]["y_true"].append(truth_idx)
-                    arch_predictions[arch]["y_pred"].append(pred_idx)
-                    arch_predictions[arch]["confidences"].append(res.get("confidence", 0.0))
-                    arch_predictions[arch]["latencies"].append(res.get("latency_seconds", 0.0))
-            else:
-                print(f"    [WARN] Scene error: {res.get('error', 'unknown')}")
+                # Record for evaluation
+                if "error" not in res:
+                    truth_idx = LABEL_MAP.get(res["truth_label"], -1)
+                    pred_label = res.get("predicted_label", "INCONCLUSIVE")
+                    pred_idx = LABEL_MAP.get(pred_label, -1)
+                    if truth_idx >= 0:
+                        # For INCONCLUSIVE: assign a wrong class so it counts as misclassification
+                        if pred_idx < 0:
+                            pred_idx = (truth_idx + 1) % 3  # guaranteed wrong
+                        arch_predictions[arch]["y_true"].append(truth_idx)
+                        arch_predictions[arch]["y_pred"].append(pred_idx)
+                        arch_predictions[arch]["confidences"].append(res.get("confidence", 0.0))
+                        arch_predictions[arch]["latencies"].append(res.get("latency_seconds", 0.0))
+                else:
+                    print(f"    [WARN] Scene error: {res.get('error', 'unknown')}")
 
     total_time = time.time() - t_total_start
 
