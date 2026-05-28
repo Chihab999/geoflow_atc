@@ -72,7 +72,7 @@ def run_diagnostics():
         mock_completed = np.concatenate([pc_feat, pc_feat, pc_feat, pc_feat])
         partial_feats = compute_features(pc_feat, partial_pc_size=len(pc_feat))
         feats = compute_features(mock_completed, partial_pc_size=len(pc_feat))
-        descriptions[damage_class] = build_description(feats, partial_feats=partial_feats)
+        descriptions[damage_class] = build_description(feats, partial_features=partial_feats)
 
     print("\n" + "=" * 50)
     print("CHECK 2: Natural Language Descriptions")

@@ -103,7 +103,7 @@ def run_pipeline(scene_file: str, damage_class: str = "Yellow",
         return None
 
     # 6. Description
-    desc = build_description(feats, partial_feats=partial_feats)
+    desc = build_description(feats, partial_features=partial_feats)
     print("\n--- Description ---")
     print(desc)
     print("-------------------\n")
