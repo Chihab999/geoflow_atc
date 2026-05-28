@@ -1,6 +1,6 @@
 import numpy as np
 
-def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.65, seed: int = 0):
+def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.6, seed: int = 0):
     """
     Yellow damage: remove ~65% of points from one randomly-chosen facade side,
     apply structural leaning (out-of-plumb), and add scattered debris near the base.
@@ -41,34 +41,27 @@ def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.65, seed: int = 0):
     kept_structure = structure_pts[keep_mask]
     
     if len(kept_structure) > 0:
-        # Apply structural tilt (3 to 5 degrees) to simulate out-of-plumb leaning
-        tilt_angle = rng.uniform(3.0, 5.0) * np.pi / 180.0
-        # Determine tilt axis randomly
-        axis_angle = rng.uniform(-np.pi, np.pi)
-        ux, uy = np.cos(axis_angle), np.sin(axis_angle)
+        # Apply structural tilt (1 to 5 degrees) to simulate out-of-plumb leaning
+        # This keeps height_std around 4-6 as requested.
+        tilt_angle = rng.uniform(0.02, 0.08)
+        tilt_axis = rng.choice([0, 1])  # tilt around X or Y axis
+        centroid_struct = kept_structure.mean(axis=0, dtype=np.float64).astype(np.float32)
+        centered = kept_structure - centroid_struct
         
-        c, s = np.cos(tilt_angle), np.sin(tilt_angle)
-        # Rotation matrix around arbitrary axis (ux, uy, 0)
-        R = np.array([
-            [c + ux*ux*(1-c), ux*uy*(1-c),   uy*s],
-            [uy*ux*(1-c),     c + uy*uy*(1-c), -ux*s],
-            [-uy*s,           ux*s,            c]
-        ])
+        # Rotation matrix
+        cos_t, sin_t = np.cos(tilt_angle), np.sin(tilt_angle)
+        if tilt_axis == 0:  # tilt around X axis
+            R = np.array([[1, 0, 0], [0, cos_t, -sin_t], [0, sin_t, cos_t]])
+        else:  # tilt around Y axis
+            R = np.array([[cos_t, 0, sin_t], [0, 1, 0], [-sin_t, 0, cos_t]])
+            
+        kept_structure = centered @ R.T + centroid_struct
         
-        # Shift so base is at z=0, apply rotation, shift back
-        kept_shifted = kept_structure.copy()
-        kept_shifted[:, :2] -= centroid
-        kept_shifted[:, 2] -= z_threshold
-        kept_rotated = kept_shifted @ R.T
-        kept_rotated[:, :2] += centroid
-        kept_rotated[:, 2] += z_threshold
-        kept_structure = kept_rotated
-    
     # 7. Add debris near the base (scattered points at ground level near centroid)
-    n_debris = int(len(structure_pts) * 0.30)  # Increased from 15% to 30%
+    n_debris = int(len(structure_pts) * 0.25)
     if n_debris > 0:
-        debris_xy = centroid + rng.normal(scale=3.5, size=(n_debris, 2)) # Wider spread
-        debris_z = z_min + np.abs(rng.normal(scale=0.8, size=(n_debris, 1))) # Higher debris piles
+        debris_xy = centroid + rng.normal(scale=4.0, size=(n_debris, 2))
+        debris_z = z_min + np.abs(rng.normal(scale=0.8, size=(n_debris, 1)))
         debris = np.concatenate([debris_xy, debris_z], axis=1)
         result = np.vstack([ground_pts, kept_structure, debris])
     else:
