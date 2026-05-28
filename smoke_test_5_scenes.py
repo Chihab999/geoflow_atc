@@ -28,6 +28,8 @@ def run_smoke_test():
     # The goal is to see if the agent interprets the features properly.
     arch = "Single-Branch"
     
+    results = []
+    
     for scene_rel, damage_class in scenes_to_test:
         scene_abs = str(cfg.project_root / scene_rel)
         print(f"\n{'='*60}")
@@ -40,6 +42,14 @@ def run_smoke_test():
         else:
             print(f"Predicted Class: {res['predicted_label']}")
             print(f"Confidence: {res['confidence']:.2f}")
+        
+        results.append(res)
+        
+    import json
+    out_file = cfg.project_root / "data" / "smoke_test_results.json"
+    with open(out_file, "w") as f:
+        json.dump(results, f, indent=2)
+    print(f"\nSaved smoke test results to {out_file}")
 
 if __name__ == "__main__":
     run_smoke_test()
