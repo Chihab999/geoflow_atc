@@ -38,7 +38,7 @@ def run_smoke_test():
         if "error" in res:
             print(f"ERROR: {res['error']}")
         else:
-            print(f"Predicted Class: {res['predicted_class']}")
+            print(f"Predicted Class: {res['predicted_label']}")
             print(f"Confidence: {res['confidence']:.2f}")
 
 if __name__ == "__main__":
