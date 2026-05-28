@@ -136,22 +136,24 @@ def build_description(features: dict, partial_features: dict = None) -> str:
     nc = assess_feats.get("normal_consistency", 0.0)
     vol = assess_feats.get("volume_estimate", 0.0)
     
-    # 4. Categorize symmetry and completeness
-    vol_completed = features.get("volume_estimate", 1.0)
-    vol_partial = assess_feats.get("volume_estimate", 1.0)
-    vol_ratio = (vol_partial / vol_completed) if vol_completed > 10.0 else 1.0
+    # 4. Completion Network Verification
+    vol_completed = features.get("volume_estimate", 0.0)
+    pt_count = features.get("point_count", 0)
     
-    if vol_ratio < 0.80:
-        lines.append(f"- Completeness (Volume Ratio): {vol_ratio:.2f} — MASSIVE VOLUME LOSS (missing structural wedge)")
+    if pt_count > 1000:
+        # Completion network was applied
+        if vol_completed < 500000:
+            lines.append(f"- Completion Analysis: Completed volume {vol_completed:.1f} < 500k. The network reconstructed a reduced footprint, confirming a MISSING WEDGE / PARTIAL COLLAPSE (Yellow indicator).")
+        else:
+            lines.append(f"- Completion Analysis: Completed volume {vol_completed:.1f} > 500k. Full structural envelope successfully reconstructed (Green indicator).")
     else:
-        lines.append(f"- Completeness (Volume Ratio): {vol_ratio:.2f} — Volume preserved (structure intact)")
+        lines.append("- Completion Analysis: Not applied. (Agent must rely on ambiguous partial geometry).")
 
     lines.append("\nINTACT-BUILDING SIGNATURE CHECK:")
     lines.append(f"[{'✓' if hr > 15.0 else '✗'}] Height range > 15m (indicates full structure): {hr:.2f}m")
     lines.append(f"[{'✓' if hstd > 4.0 and hstd <= 8.0 else '✗'}] Height std in 4.0-8.0 range (normal vertical complexity): {hstd:.2f}")
     lines.append(f"[{'✓' if 0.85 <= nc <= 0.97 else '✗'}] Normal consistency in 0.85-0.97 range (intact roof, not debris): {nc:.2f}")
     lines.append(f"[{'✓' if ri < 3.0 else '✗'}] Roughness < 3.0 (smooth surface, not rubble): {ri:.2f}")
-    lines.append(f"[{'✓' if vol_ratio >= 0.80 else '✗'}] Volume Ratio >= 0.80 (no missing wedges): {vol_ratio:.2f}")
 
     lines.append("\nDEBRIS-FIELD SIGNATURE CHECK:")
     lines.append(f"[{'✓' if hr < 3.0 else '✗'}] Height range < 3m (flat geometry): {hr:.2f}m")
