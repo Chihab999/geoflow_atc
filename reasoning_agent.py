@@ -261,8 +261,18 @@ Available Actions:
         # Try to extract JSON from ANSWER: line
         answer_match = re.search(r"ANSWER:\s*(\{.*\})", raw_output, re.DOTALL)
         if answer_match:
+            json_str = answer_match.group(1).strip()
+            # Strip markdown code blocks if present
+            if json_str.startswith("```json"):
+                json_str = json_str[7:]
+            if json_str.startswith("```"):
+                json_str = json_str[3:]
+            if json_str.endswith("```"):
+                json_str = json_str[:-3]
+            json_str = json_str.strip()
+            
             try:
-                data = json.loads(answer_match.group(1))
+                data = json.loads(json_str)
                 result.predicted_class = data.get("class", "INCONCLUSIVE")
                 result.confidence = float(data.get("confidence", 0.0))
                 result.citations = data.get("citations", [])
@@ -520,18 +530,20 @@ Available Actions:
 
             structured_log["steps"].append(step_log)
 
-        # Exceeded max steps
-        result = TriageResult(
-            predicted_class="INCONCLUSIVE",
-            num_steps=self.max_steps,
-            latency_seconds=time.time() - t_start,
-            log_path=str(log_path),
-        )
+        # Exceeded max steps - try to parse the last response as a fallback
+        # instead of unconditionally returning INCONCLUSIVE
+        result = self.parse_answer(response if 'response' in locals() else "INCONCLUSIVE")
+        if result.predicted_class == "INCONCLUSIVE":
+            result.predicted_class = "INCONCLUSIVE (Max Steps)"
+        result.num_steps = self.max_steps
+        result.latency_seconds = time.time() - t_start
+        result.log_path = str(log_path)
+        
         self.last_result = result
         structured_log["result"] = result.to_dict()
         self._save_log(structured_log, log_path)
 
-        return "INCONCLUSIVE — defer to human reviewer.", "Trace Complete"
+        return response if 'response' in locals() else "INCONCLUSIVE", "Trace Complete"
 
     def _save_log(self, log_data: dict, path: Path):
         """Save structured log to JSON file."""
