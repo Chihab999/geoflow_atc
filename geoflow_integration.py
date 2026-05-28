@@ -83,7 +83,7 @@ class GeoFlowPCWrapper:
             centroid = point_cloud.mean(axis=0)
             centered = point_cloud - centroid
             distances = np.linalg.norm(centered, axis=1)
-            scale = np.percentile(distances, 99)
+            scale = np.percentile(distances, 95)  # Tightened from 99 to 95 for robustness against extreme debris
             if scale < 1e-8:
                 scale = 1.0
             normalized = centered / scale
@@ -118,7 +118,7 @@ class GeoFlowPCWrapper:
             centroid = point_cloud.mean(axis=0)
             centered = point_cloud - centroid
             distances = np.linalg.norm(centered, axis=1)
-            scale = np.percentile(distances, 99)
+            scale = np.percentile(distances, 95)  # Tightened from 99 to 95 for robustness against extreme debris
             if scale < 1e-8:
                 scale = 1.0
             normalized = centered / scale

@@ -1,9 +1,10 @@
 import numpy as np
 
-def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.4, seed: int = 0):
+def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.65, seed: int = 0):
     """
-    Yellow damage: remove ~40% of points from one randomly-chosen facade side,
-    add scattered debris near the base. Building remains mostly standing.
+    Yellow damage: remove ~65% of points from one randomly-chosen facade side,
+    apply structural leaning (out-of-plumb), and add scattered debris near the base.
+    Building remains standing but is clearly damaged/leaning.
     """
     rng = np.random.RandomState(seed)
     if pc.size == 0:
@@ -34,17 +35,40 @@ def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.4, seed: int = 0):
     angular_dist = np.abs((angles - cut_angle + np.pi) % (2 * np.pi) - np.pi)
     
     # 6. Remove points within a wedge of width (frac * 2 * pi)
-    # frac=0.4 means a 144-degree wedge gets removed
     wedge_half_width = np.pi * frac
     keep_mask = angular_dist > wedge_half_width
     
     kept_structure = structure_pts[keep_mask]
     
+    if len(kept_structure) > 0:
+        # Apply structural tilt (3 to 5 degrees) to simulate out-of-plumb leaning
+        tilt_angle = rng.uniform(3.0, 5.0) * np.pi / 180.0
+        # Determine tilt axis randomly
+        axis_angle = rng.uniform(-np.pi, np.pi)
+        ux, uy = np.cos(axis_angle), np.sin(axis_angle)
+        
+        c, s = np.cos(tilt_angle), np.sin(tilt_angle)
+        # Rotation matrix around arbitrary axis (ux, uy, 0)
+        R = np.array([
+            [c + ux*ux*(1-c), ux*uy*(1-c),   uy*s],
+            [uy*ux*(1-c),     c + uy*uy*(1-c), -ux*s],
+            [-uy*s,           ux*s,            c]
+        ])
+        
+        # Shift so base is at z=0, apply rotation, shift back
+        kept_shifted = kept_structure.copy()
+        kept_shifted[:, :2] -= centroid
+        kept_shifted[:, 2] -= z_threshold
+        kept_rotated = kept_shifted @ R.T
+        kept_rotated[:, :2] += centroid
+        kept_rotated[:, 2] += z_threshold
+        kept_structure = kept_rotated
+    
     # 7. Add debris near the base (scattered points at ground level near centroid)
-    n_debris = int(len(structure_pts) * 0.15)
+    n_debris = int(len(structure_pts) * 0.30)  # Increased from 15% to 30%
     if n_debris > 0:
-        debris_xy = centroid + rng.normal(scale=2.0, size=(n_debris, 2))
-        debris_z = z_min + np.abs(rng.normal(scale=0.3, size=(n_debris, 1)))
+        debris_xy = centroid + rng.normal(scale=3.5, size=(n_debris, 2)) # Wider spread
+        debris_z = z_min + np.abs(rng.normal(scale=0.8, size=(n_debris, 1))) # Higher debris piles
         debris = np.concatenate([debris_xy, debris_z], axis=1)
         result = np.vstack([ground_pts, kept_structure, debris])
     else:
