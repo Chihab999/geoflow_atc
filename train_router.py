@@ -38,11 +38,11 @@ class RouterDataset(Dataset):
     """
 
     def __init__(self, data_dir: str, num_samples: int = 200,
-                 encoder: PointNetEncoder = None, seed: int = 42):
+                 geoflow=None, seed: int = 42):
         super().__init__()
         self.points_list = []
         self.labels = []
-        self.encoder = encoder
+        self.geoflow = geoflow
 
         rng = np.random.RandomState(seed)
         files = list(Path(data_dir).glob("vaihingen_scene_*.pts"))
@@ -71,7 +71,8 @@ class RouterDataset(Dataset):
             else:
                 partial_pc = damaged_pc
 
-            feat = extract_global_features(partial_pc, encoder=self.encoder).squeeze(0)
+            feat = self.geoflow.extract_descriptor(partial_pc)
+            feat = torch.from_numpy(feat).float()
             self.points_list.append(feat)
             self.labels.append(label_idx)
 
@@ -112,13 +113,14 @@ def train_router(data_dir: str, epochs: int = 20, batch_size: int = 32,
     torch.manual_seed(seed)
     np.random.seed(seed)
 
-    # Initialize the PointNet encoder (used for feature extraction only, not trained)
-    encoder = PointNetEncoder(d_out=cfg.router_input_dim)
+    # Initialize GeoFlowPCWrapper
+    from geoflow_integration import GeoFlowPCWrapper
+    geoflow = GeoFlowPCWrapper(checkpoint_path=str(cfg.get_checkpoint_path()), device="cpu")
 
     print("Generating training dataset...")
-    train_dataset = RouterDataset(data_dir, num_samples=200, encoder=encoder, seed=seed)
+    train_dataset = RouterDataset(data_dir, num_samples=200, geoflow=geoflow, seed=seed)
     print("Generating validation dataset...")
-    val_dataset = RouterDataset(data_dir, num_samples=60, encoder=encoder, seed=seed + 1)
+    val_dataset = RouterDataset(data_dir, num_samples=60, geoflow=geoflow, seed=seed + 1)
 
     if len(train_dataset) == 0:
         print("Dataset empty. Cannot train.")
