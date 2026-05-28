@@ -174,6 +174,9 @@ Available Actions:
         cleaned = []
         corpus = self.kb_corpus or ""
         corpus_tokens = set(re.findall(r"\w+", corpus)) if corpus else set()
+        
+        desc = getattr(self, "current_description", "")
+        desc_tokens = set(re.findall(r"\w+", desc.lower())) if desc else set()
 
         # Class-specific keywords for heuristic matching
         class_keywords = {
@@ -191,8 +194,8 @@ Available Actions:
             if not ev_low:
                 return (False, "Empty evidence item")
 
-            # 1. Direct substring match in corpus
-            if corpus and ev_low in corpus:
+            # 1. Direct substring match in corpus or description
+            if (corpus and ev_low in corpus) or (desc and ev_low in desc.lower()):
                 cleaned.append(ev_text)
                 continue
 
@@ -203,11 +206,15 @@ Available Actions:
                 cleaned.append(ev_text)
                 continue
 
-            # 3. Token overlap
+            # 3. Token overlap (check against KB corpus OR description)
             ev_tokens = set(re.findall(r"\w+", ev_low))
             if not ev_tokens:
                 return (False, "Evidence contains no tokens")
-            overlap = len(ev_tokens & corpus_tokens) / max(1, len(ev_tokens))
+            
+            overlap_kb = len(ev_tokens & corpus_tokens) / max(1, len(ev_tokens))
+            overlap_desc = len(ev_tokens & desc_tokens) / max(1, len(ev_tokens))
+            overlap = max(overlap_kb, overlap_desc)
+            
             if overlap >= self.cfg.evidence_overlap_threshold:
                 cleaned.append(ev_text)
                 continue
@@ -308,6 +315,7 @@ Available Actions:
             (classification_string, trace_summary) tuple.
             Also stores self.last_result (TriageResult) for programmatic access.
         """
+        self.current_description = description or ""
         t_start = time.time()
         print("\n[START] Starting Agentic Triage Loop...")
 
