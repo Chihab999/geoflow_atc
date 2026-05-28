@@ -1,4 +1,4 @@
-﻿import numpy as np
+import numpy as np
 
 def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.4, seed: int = 0):
     """
@@ -83,13 +83,13 @@ def simulate_full_collapse(pc: np.ndarray, seed: int = 0):
     
     # Flatten structure to a debris field
     collapsed = structure_pts.copy()
-    # Crush Z down to near ground with vertical noise
-    collapsed[:, 2] = z_min + np.abs(rng.normal(scale=0.5, size=collapsed.shape[0]))
+    # Crush Z down to ground completely
+    collapsed[:, 2] = z_min + np.abs(rng.normal(scale=0.1, size=collapsed.shape[0]))
     # Add horizontal spread (collapsed debris travels outward)
-    horizontal_spread = rng.normal(scale=1.5, size=(collapsed.shape[0], 2))
+    horizontal_spread = rng.normal(scale=2.5, size=(collapsed.shape[0], 2))
     collapsed[:, :2] += horizontal_spread
-    # Subsample to 50% (debris is more sparse than intact roof)
-    n_keep = int(len(collapsed) * 0.5)
+    # Subsample to 30% (severe debris is very sparse)
+    n_keep = int(len(collapsed) * 0.3)
     idx = rng.choice(len(collapsed), size=n_keep, replace=False)
     collapsed = collapsed[idx]
     

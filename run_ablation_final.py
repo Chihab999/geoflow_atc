@@ -115,7 +115,8 @@ def process_single_scene(scene_file: str, damage_class: str,
                     pass  # Use random weights if incompatible
             router.eval()
             with torch.no_grad():
-                feat = extract_global_features(partial_pc)
+                feat_np = geoflow.extract_descriptor(partial_pc)
+                feat = torch.tensor(feat_np, dtype=torch.float32).unsqueeze(0).to(router.mlp[0].weight.device)
                 logits = router(feat)
                 branch_idx = torch.argmax(logits, dim=-1).item()
                 branch_str = SEVERITY_BRANCHES[branch_idx]
@@ -222,21 +223,31 @@ def run_ablation_final():
     arch_predictions = {arch: {"y_true": [], "y_pred": [], "confidences": [], "latencies": []}
                         for arch in architectures}
 
-    print(f"\nStarting ablation: {len(scenes)} scenes × {len(architectures)} architectures")
-    print(f"Total runs: {len(scenes) * len(architectures)}")
+    # Use 5 random seeds per scene to generate 45 total predictions per architecture
+    seeds = [42, 100, 1024, 2048, 777]
+    total_runs = len(scenes) * len(seeds) * len(architectures)
+
+    print(f"\nStarting ablation: {len(scenes)} scenes × {len(seeds)} seeds × {len(architectures)} architectures")
+    print(f"Total runs: {total_runs}")
     print("=" * 60)
 
     t_total_start = time.time()
+    run_idx = 1
 
     for i, scene_rel in enumerate(scenes):
         scene_abs = str(cfg.project_root / scene_rel)
         damage_class = label_rotator[i % 3]
 
-        for arch in architectures:
-            print(f"\n-> Scene {i + 1}/{len(scenes)} ({damage_class}) using {arch}...")
-            res = process_single_scene(scene_abs, damage_class, arch, geoflow, agent, rng)
-            res["scene"] = Path(scene_abs).name
-            results.append(res)
+        for seed in seeds:
+            # Re-initialize per-scene/seed RNG so simulation is deterministic
+            rng = np.random.default_rng(seed)
+            for arch in architectures:
+                print(f"\n-> Run {run_idx}/{total_runs} | Scene {i + 1} (Seed {seed}) ({damage_class}) | {arch}...")
+                run_idx += 1
+                res = process_single_scene(scene_abs, damage_class, arch, geoflow, agent, rng)
+                res["scene"] = Path(scene_abs).name
+                res["seed"] = seed
+                results.append(res)
 
             # Record for evaluation
             if "error" not in res:

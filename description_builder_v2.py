@@ -99,6 +99,16 @@ def build_description(features: dict) -> str:
     if vol is not None:
         lines.append(f"- Convex hull volume: {vol:.1f} m³")
 
+    # ── ATC-20 Recommendation Synthesis ───────────────────────
+    lines.append("\nSYNTHESIS AND ATC-20 RECOMMENDATION:")
+    if hstd < 1.5 or aspect < 0.05:
+        lines.append(">>> SEVERE DAMAGE: Massive height variability loss indicative of global structural collapse (pancaking). RED PLACARD HAZARD. DO NOT ENTER.")
+    elif hstd >= 2.5 and (nc is None or nc > 0.5) and aspect >= 0.1:
+        lines.append(">>> NO APPARENT DAMAGE: Geometry is intact with strong vertical structure. Structure remains globally stable. GREEN PLACARD INDICATED.")
+    else:
+        lines.append(">>> MODERATE DAMAGE: Signs of partial failure (e.g. wall blowout or localized roof damage) but without total collapse. YELLOW PLACARD INDICATED.")
+
+
     # ── Height Percentiles ────────────────────────────────────
     h_p50 = features.get("height_p50", None)
     h_p90 = features.get("height_p90", None)

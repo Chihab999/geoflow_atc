@@ -174,8 +174,10 @@ class PointNetEncoder(nn.Module):
             stat = compute_statistical_features(point_cloud)
             stat_tensor = torch.tensor(stat, dtype=torch.float32).unsqueeze(0)
 
-            # Prepare point cloud tensor
-            pc_tensor = torch.tensor(point_cloud, dtype=torch.float32).unsqueeze(0)
+            # Mean-center the point cloud for translation invariance
+            centroid = point_cloud.mean(axis=0)
+            centered_pc = point_cloud - centroid
+            pc_tensor = torch.tensor(centered_pc, dtype=torch.float32).unsqueeze(0)
 
             # Forward
             features = self.forward(pc_tensor, stat_tensor)

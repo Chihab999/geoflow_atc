@@ -79,7 +79,17 @@ class GeoFlowPCWrapper:
                 idx = np.random.choice(point_cloud.shape[0], n_partial, replace=True)
                 point_cloud = point_cloud[idx, :]
 
-            pc_tensor = torch.tensor(point_cloud, dtype=torch.float32).unsqueeze(0).to(self.device)
+            # Normalize to unit sphere robustly
+            centroid = point_cloud.mean(axis=0)
+            centered = point_cloud - centroid
+            distances = np.linalg.norm(centered, axis=1)
+            scale = np.percentile(distances, 99)
+            if scale < 1e-8:
+                scale = 1.0
+            normalized = centered / scale
+            normalized = np.clip(normalized, -1.0, 1.0)
+
+            pc_tensor = torch.tensor(normalized, dtype=torch.float32).unsqueeze(0).to(self.device)
             per_point, global_descriptor = self.model.encoder(pc_tensor)
             return global_descriptor.cpu().numpy().flatten()
 
@@ -104,13 +114,16 @@ class GeoFlowPCWrapper:
                 idx = np.random.choice(point_cloud.shape[0], n_partial, replace=True)
                 point_cloud = point_cloud[idx, :]
 
-            # Normalize to unit sphere
+            # Normalize to unit sphere robustly
             centroid = point_cloud.mean(axis=0)
             centered = point_cloud - centroid
-            scale = np.abs(centered).max()
+            distances = np.linalg.norm(centered, axis=1)
+            scale = np.percentile(distances, 99)
             if scale < 1e-8:
                 scale = 1.0
             normalized = centered / scale
+            # Clip to prevent massive outliers from destroying transformer attention
+            normalized = np.clip(normalized, -1.0, 1.0)
 
             pc_tensor = torch.tensor(normalized, dtype=torch.float32).unsqueeze(0).to(self.device)
             try:
