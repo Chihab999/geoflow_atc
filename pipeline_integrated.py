@@ -95,16 +95,15 @@ def run_pipeline(scene_file: str, damage_class: str = "Yellow",
 
     # 5. Features
     try:
-        feats = compute_features(
-            completed_pc if completed_used else partial_pc,
-            partial_pc_size=len(partial_pc),
-        )
+        used_pc = completed_pc if completed_used else partial_pc
+        feats = compute_features(used_pc, partial_pc_size=len(partial_pc))
+        partial_feats = compute_features(partial_pc, partial_pc_size=len(partial_pc))
     except Exception as e:
         print(f"Feature extraction failed: {e}")
         return None
 
     # 6. Description
-    desc = build_description(feats)
+    desc = build_description(feats, partial_feats=partial_feats)
     print("\n--- Description ---")
     print(desc)
     print("-------------------\n")

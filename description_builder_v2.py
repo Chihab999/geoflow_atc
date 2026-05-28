@@ -6,108 +6,84 @@ description for the LLM ReAct agent. Includes severity indicators with
 literature-grounded thresholds for context.
 """
 
-
-def build_description(features: dict) -> str:
-    """Build a structured textual description from geometric features.
+def build_description(features: dict, partial_features: dict = None) -> str:
+    """Build a structured textual description translated for ATC-20 reasoning.
     
     Args:
-        features: Dictionary from geometric_features.compute_features().
-    
-    Returns:
-        Multi-line string describing the building's geometric state.
+        features: Dictionary from geometric_features.compute_features() on completed point cloud.
+        partial_features: Dictionary of features on the partial point cloud (ground truth geometry).
+                          If provided, this is used for the ATC-20 geometric assessment to avoid completion artifacts.
     """
     if not features:
         return "No point-cloud features available."
 
+    # Use partial features as the "ground truth" for geometric assessment if available
+    assess_feats = partial_features if partial_features else features
+
     lines = []
-    lines.append("Building geometric analysis (post-completion):")
+    lines.append("DAMAGE INDICATORS (Geometric Analysis):")
 
-    # ── Basic Geometry ────────────────────────────────────────
-    max_h = features.get("max_height", 0)
-    height_range = features.get("height_range", 0)
-    hstd = features.get("height_std", 0)
-    lines.append(f"- Maximum height: {max_h:.2f} m")
-    lines.append(f"- Height range: {height_range:.2f} m")
-    lines.append(f"- Height variability (std): {hstd:.2f} m")
-
-    # Height std interpretation
-    if hstd < 1.0:
-        lines.append("  -> Low height variability suggests collapsed or single-story structure")
-    elif hstd > 3.0:
-        lines.append("  -> High height variability consistent with intact multi-story building")
-
-    # ── Footprint & Aspect Ratio ──────────────────────────────
-    bbox_x = features.get("bbox_x", 0)
-    bbox_y = features.get("bbox_y", 0)
-    aspect = features.get("aspect_ratio", 0)
-    lines.append(f"- Footprint dimensions: {bbox_x:.2f} x {bbox_y:.2f} m")
-    lines.append(f"- Height/footprint aspect ratio: {aspect:.3f}")
-
-    if aspect < 0.3:
-        lines.append("  -> Very low aspect ratio may indicate partial height loss (collapse)")
-
-    # ── Planarity ─────────────────────────────────────────────
-    pt = features.get("planarity_top", 0.0)
-    lines.append(f"- Top-surface planarity: {pt:.3f}")
-
-    if pt > 0.3:
-        lines.append("  -> High planarity suggests intact roof surface")
-    elif pt < 0.1:
-        lines.append("  -> Low planarity indicates irregular top surface (potential roof damage)")
-
-    # ── Vertical Density Distribution ─────────────────────────
-    low = features.get("vertical_density_low", 0.0)
-    mid = features.get("vertical_density_mid", 0.0)
-    high = features.get("vertical_density_high", 0.0)
-    lines.append(f"- Point density distribution (low/mid/high): {low:.2f}/{mid:.2f}/{high:.2f}")
-
-    if low > 0.50:
-        lines.append("  -> Concentration at base level suggests collapsed upper structure")
-    elif high > 0.40:
-        lines.append("  -> Strong upper-level presence suggests roof/upper floors intact")
-
-    # ── Completeness Ratio ────────────────────────────────────
-    comp = features.get("completeness_ratio", 0.0)
-    lines.append(f"- Completeness ratio: {comp:.3f}")
-
-    # ── Advanced Structural Descriptors ───────────────────────
-    nc = features.get("normal_consistency", None)
-    if nc is not None:
-        lines.append(f"- Surface normal consistency: {nc:.3f}")
-        if nc > 0.7:
-            lines.append("  -> High normal consistency indicates smooth, intact structural surfaces")
-        elif nc < 0.4:
-            lines.append("  -> Low normal consistency suggests fragmented or rubble-like geometry")
-
-    ri = features.get("roughness_index", None)
-    if ri is not None:
-        lines.append(f"- Roughness index: {ri:.4f}")
-        if ri > 0.5:
-            lines.append("  -> High roughness consistent with debris field or severe structural damage")
-        elif ri < 0.1:
-            lines.append("  -> Low roughness consistent with clean structural surfaces")
-
-    sym = features.get("symmetry_score", None)
-    if sym is not None:
-        lines.append(f"- Bilateral symmetry score: {sym:.3f}")
-        if sym > 0.7:
-            lines.append("  -> High symmetry consistent with structurally intact building")
-        elif sym < 0.4:
-            lines.append("  -> Low symmetry suggests asymmetric damage (partial wall collapse)")
-
-    vol = features.get("volume_estimate", None)
-    if vol is not None:
-        lines.append(f"- Convex hull volume: {vol:.1f} m³")
-
-    # ── ATC-20 Recommendation Synthesis ───────────────────────
-    lines.append("\nSYNTHESIS AND ATC-20 RECOMMENDATION:")
-    if hstd < 1.5 or aspect < 0.05:
-        lines.append(">>> SEVERE DAMAGE: Massive height variability loss indicative of global structural collapse (pancaking). RED PLACARD HAZARD. DO NOT ENTER.")
-    elif hstd >= 2.5 and (nc is None or nc > 0.5) and aspect >= 0.1:
-        lines.append(">>> NO APPARENT DAMAGE: Geometry is intact with strong vertical structure. Structure remains globally stable. GREEN PLACARD INDICATED.")
+    # 1. Categorize height_range
+    hr = assess_feats.get("height_range", 0)
+    if hr < 3.0:
+        lines.append(f"- Vertical extent: {hr:.2f}m — BUILDING COLLAPSED (intact buildings have 15-50m range)")
+    elif hr < 15.0:
+        lines.append(f"- Vertical extent: {hr:.2f}m — Reduced vertical extent — possible partial collapse or low building")
     else:
-        lines.append(">>> MODERATE DAMAGE: Signs of partial failure (e.g. wall blowout or localized roof damage) but without total collapse. YELLOW PLACARD INDICATED.")
+        lines.append(f"- Vertical extent: {hr:.2f}m — Full building height preserved (Green/Yellow indicator)")
 
+    # 2. Categorize height_std
+    hstd = assess_feats.get("height_std", 0)
+    if hstd < 1.0:
+        lines.append(f"- Surface variation: {hstd:.2f} — Geometry is FLAT (strong collapse indicator)")
+    elif hstd < 4.0:
+        lines.append(f"- Surface variation: {hstd:.2f} — Moderate vertical variation — possible damage")
+    else:
+        lines.append(f"- Surface variation: {hstd:.2f} — Normal vertical variation — intact building structure")
+
+    # 3. Categorize roughness_index
+    ri = assess_feats.get("roughness_index", 3.0)
+    if ri < 1.5:
+        lines.append(f"- Roughness: {ri:.2f} — Smooth surface — intact roof")
+    elif ri <= 3.0:
+        lines.append(f"- Roughness: {ri:.2f} — Moderate roughness — minor damage or normal texture")
+    else:
+        lines.append(f"- Roughness: {ri:.2f} — High roughness — possible damaged surface OR sparse sampling artifact")
+
+    nc = assess_feats.get("normal_consistency", 0.0)
+    vol = assess_feats.get("volume_estimate", 0.0)
+
+    # 4. Decision Boundary Crossings
+    lines.append("\nINTACT-BUILDING SIGNATURE CHECK:")
+    lines.append(f"[{'✓' if hr > 15.0 else '✗'}] Height range > 15m (indicates full structure): {hr:.2f}m")
+    lines.append(f"[{'✓' if hstd > 4.0 else '✗'}] Height std > 4.0 (indicates vertical complexity): {hstd:.2f}")
+    lines.append(f"[{'✓' if 0.85 <= nc <= 0.97 else '✗'}] Normal consistency in 0.85-0.97 range (intact roof, not debris): {nc:.2f}")
+    lines.append(f"[{'✓' if ri < 3.0 else '✗'}] Roughness < 3.0 (smooth surface, not rubble): {ri:.2f}")
+
+    lines.append("\nDEBRIS-FIELD SIGNATURE CHECK:")
+    lines.append(f"[{'✓' if hr < 3.0 else '✗'}] Height range < 3m (flat geometry): {hr:.2f}m")
+    lines.append(f"[{'✓' if hstd < 1.0 else '✗'}] Height std < 1.0 (collapsed): {hstd:.2f}")
+    lines.append(f"[{'✓' if nc > 0.99 else '✗'}] Normal consistency > 0.99 (flat surface): {nc:.2f}")
+    lines.append(f"[{'✓' if vol < 50000 else '✗'}] Volume estimate < 50000 (very small enclosed volume): {vol:.1f}")
+
+    # 5. Preliminary Assessment Summary
+    lines.append("\nGEOMETRIC EVIDENCE SUMMARY:")
+    
+    collapse_indicator = "STRONG" if (hr < 3.0 and hstd < 1.0) else ("MODERATE" if hr < 15.0 else "ABSENT")
+    intact_indicator = "STRONG" if (hr > 15.0 and hstd > 4.0) else "ABSENT"
+    
+    lines.append(f"- Vertical collapse indicator: {collapse_indicator} (height_range = {hr:.2f}m)")
+    lines.append(f"- Structural intactness indicator: {intact_indicator} (height_std = {hstd:.2f})")
+    
+    if nc > 0.99:
+        lines.append(f"- Surface uniformity: extreme (normal_consistency = {nc:.4f}, consistent with flat debris)")
+    elif nc > 0.85:
+        lines.append(f"- Surface uniformity: normal (normal_consistency = {nc:.4f}, consistent with intact roof)")
+    else:
+        lines.append(f"- Surface uniformity: low (normal_consistency = {nc:.4f}, highly irregular)")
+
+    lines.append("\nThese indicators provide characteristic structural context.")
+    lines.append("The agent should consult ATC-20 placard criteria and verify against the retrieved text.")
 
     # ── Height Percentiles ────────────────────────────────────
     h_p50 = features.get("height_p50", None)

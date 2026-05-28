@@ -139,7 +139,8 @@ def process_single_scene(scene_file: str, damage_class: str,
     # 4. Features & Describe
     try:
         feats = compute_features(used_pc, partial_pc_size=len(partial_pc))
-        desc = build_description(feats)
+        partial_feats = compute_features(partial_pc, partial_pc_size=len(partial_pc))
+        desc = build_description(feats, partial_feats=partial_feats)
     except Exception as e:
         return {"error": str(e), "truth_label": damage_class, "architecture": config_name}
 
