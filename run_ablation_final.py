@@ -149,7 +149,7 @@ def process_single_scene(scene_file: str, damage_class: str,
     confidence = 0.0
     citations = []
     try:
-        final_output, trace = agent.run(description=desc, point_cloud_payload=feats)
+        final_output, trace = agent.run(description=desc, point_cloud_payload=None)
         parsed = parse_agent_output(final_output)
         predicted_class = parsed["predicted_class"]
         confidence = parsed["confidence"]

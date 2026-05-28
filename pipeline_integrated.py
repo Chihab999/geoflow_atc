@@ -121,7 +121,6 @@ def run_pipeline(scene_file: str, damage_class: str = "Yellow",
         print("Sending to LLM for ReAct traversal...")
         final_classification, reasoning_trace = agent.run(
             description=desc,
-            point_cloud_payload=feats,
         )
 
         print(f"\n[FINAL CLASSIFICATION]: {final_classification}")
