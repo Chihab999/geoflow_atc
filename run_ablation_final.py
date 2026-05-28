@@ -144,19 +144,32 @@ def process_single_scene(scene_file: str, damage_class: str,
     except Exception as e:
         return {"error": str(e), "truth_label": damage_class, "architecture": config_name}
 
-    # 5. ReAct Agent execution
-    predicted_class = "INCONCLUSIVE"
-    confidence = 0.0
-    citations = []
-    try:
-        final_output, trace = agent.run(description=desc, point_cloud_payload=None)
-        parsed = parse_agent_output(final_output)
-        predicted_class = parsed["predicted_class"]
-        confidence = parsed["confidence"]
-        citations = parsed["citations"]
-    except Exception as e:
-        print(f"AGENT ERROR: {e}")
-        predicted_class = "INCONCLUSIVE"
+    # 5. ReAct Agent execution (Multi-shot Consensus)
+    predictions = []
+    confidences = []
+    best_citations = []
+    
+    from collections import Counter
+    
+    for shot in range(3):
+        try:
+            final_output, trace = agent.run(description=desc, point_cloud_payload=None)
+            parsed = parse_agent_output(final_output)
+            pred = parsed.get("predicted_class", "INCONCLUSIVE")
+            predictions.append(pred)
+            confidences.append(parsed.get("confidence", 0.0))
+            if parsed.get("citations"):
+                best_citations = parsed["citations"]
+        except Exception as e:
+            print(f"    -> AGENT ERROR (Shot {shot+1}): {e}")
+            predictions.append("INCONCLUSIVE")
+            confidences.append(0.0)
+
+    # Majority vote
+    counts = Counter(predictions)
+    predicted_class = counts.most_common(1)[0][0]
+    confidence = sum(confidences) / max(1, len(confidences))
+    citations = best_citations
 
     latency = time.time() - t_start
 

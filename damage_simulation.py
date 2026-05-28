@@ -22,7 +22,7 @@ def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.6, seed: int = 0):
         return pc.copy()
     
     # 2. Compute centroid of structure points (not whole scene)
-    centroid = structure_pts[:, :2].mean(axis=0)
+    centroid = structure_pts[:, :2].mean(axis=0, dtype=np.float64).astype(np.float32)
     
     # 3. Compute angle of each structure point from centroid
     vecs = structure_pts[:, :2] - centroid[None, :]
@@ -41,9 +41,9 @@ def simulate_wall_collapse(pc: np.ndarray, frac: float = 0.6, seed: int = 0):
     kept_structure = structure_pts[keep_mask]
     
     if len(kept_structure) > 0:
-        # Apply structural tilt (1 to 5 degrees) to simulate out-of-plumb leaning
-        # This keeps height_std around 4-6 as requested.
-        tilt_angle = rng.uniform(0.02, 0.08)
+        # Apply structural tilt (5 to 10 degrees) to simulate obvious out-of-plumb leaning
+        # This makes the damage highly pronounced and distinguishes it from normal variance.
+        tilt_angle = rng.uniform(0.08, 0.17)
         tilt_axis = rng.choice([0, 1])  # tilt around X or Y axis
         centroid_struct = kept_structure.mean(axis=0, dtype=np.float64).astype(np.float32)
         centered = kept_structure - centroid_struct
